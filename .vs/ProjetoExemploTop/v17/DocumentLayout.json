@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|c:\\users\\2amod\\desktop\\projetoexemplotop-main\\projetoexemplotop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|solutionrelative:projetoexemplotop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|c:\\users\\2amod\\desktop\\projetoexemplotop-main\\projetoexemplotop\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|solutionrelative:projetoexemplotop\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|c:\\users\\2amod\\desktop\\projetoexemplotop-main\\projetoexemplotop\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|solutionrelative:projetoexemplotop\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|c:\\users\\2amod\\desktop\\projetoexemplotop-main\\projetoexemplotop\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|solutionrelative:projetoexemplotop\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|c:\\users\\2amod\\desktop\\projetoexemplotop-main\\projetoexemplotop\\views\\usuario\\logar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|solutionrelative:projetoexemplotop\\views\\usuario\\logar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|c:\\users\\2amod\\desktop\\projetoexemplotop-main\\projetoexemplotop\\repositorio\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|solutionrelative:projetoexemplotop\\repositorio\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|c:\\users\\2amod\\desktop\\projetoexemplotop-main\\projetoexemplotop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|solutionrelative:projetoexemplotop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|c:\\users\\2amod\\desktop\\projetoexemplotop-main\\projetoexemplotop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19631C23-6C91-4C1B-9BA3-4E859ECF43F7}|ProjetoExemploTop\\ProjetoExemploTop.csproj|solutionrelative:projetoexemplotop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ProjetoExemploTop\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ProjetoExemploTop\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:43:54.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoExemploTop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoExemploTop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T17:33:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Repositorio\\IProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "ProjetoExemploTop\\Repositorio\\IProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Repositorio\\IProdutoRepositorio.cs",
+              "RelativeToolTip": "ProjetoExemploTop\\Repositorio\\IProdutoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:13:21.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProjetoExemploTop\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\appsettings.Development.json",
+              "RelativeToolTip": "ProjetoExemploTop\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T18:02:36.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoExemploTop\\Program.cs",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Program.cs",
+              "RelativeToolTip": "ProjetoExemploTop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T17:33:19.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logar.cshtml",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Views\\Usuario\\Logar.cshtml",
+              "RelativeDocumentMoniker": "ProjetoExemploTop\\Views\\Usuario\\Logar.cshtml",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Views\\Usuario\\Logar.cshtml",
+              "RelativeToolTip": "ProjetoExemploTop\\Views\\Usuario\\Logar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T17:33:04.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoExemploTop\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "ProjetoExemploTop\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T17:32:05.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Views\\Produto\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ProjetoExemploTop\\Views\\Produto\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\2amod\\Desktop\\ProjetoExemploTop-main\\ProjetoExemploTop\\Views\\Produto\\Editar.cshtml",
+              "RelativeToolTip": "ProjetoExemploTop\\Views\\Produto\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T17:31:54.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
